@@ -1,6 +1,5 @@
 # 💫 About Me:
 I’m a Computer Science undergraduate at IIIT Sri City who loves building web applications and learning new technologies. I’ve worked on full-stack projects involving React, Node.js, MongoDB, and Express, and I enjoy creating applications that are both functional and user-friendly. I’m always curious, motivated, and eager to grow as a developer. <br>
-My portfolio link-https://kadiamyeshwanth.github.io/yeshwanth-kadiam-portfolio/
 
 
 ## 🌐 Socials:
