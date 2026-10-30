@@ -1,7 +1,7 @@
 # 💫 About Me:
 I’m a Computer Science undergraduate at IIIT Sri City who loves building web applications and learning new technologies. I’ve worked on full-stack projects involving React, Node.js, MongoDB, and Express, and I enjoy creating applications that are both functional and user-friendly. I’m always curious, motivated, and eager to grow as a developer. <br>
 
-My portfolio : https://github.com/kadiamyeshwanth/yeshwanth-kadiam-portfolio
+My portfolio :https://kadiamyeshwanth.github.io/yeshwanth-kadiam-portfolio/
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/spiderpool2.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/narrator.k.l) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yeshwaanthh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/yeshwanth-kadiam-b5909128a) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/spiderpool_cupid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kadiamyeshwanth@gmail.com) 
